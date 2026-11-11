@@ -1,0 +1,37 @@
+MIHRAGE — PROTÓTIPO v2
+======================
+
+Cópia do protótipo ("teste import") com as mudanças da demo levadas
+para o jogo inteiro. O "teste import" ficou intacto.
+
+O que mudou em relação ao "teste import"
+----------------------------------------
+Visual
+- Sprites novos (remake visual) de Mih, Lucy e Daniel, ampliados por IA
+  para 720x1082 (2x): ficam nítidos em tela cheia.
+- Os 11 cenários ampliados por IA para 1920x1080.
+- HUD sem caixas: três pontos de vida (o último pisca), o "quando" em
+  itálico e o "✎ caderno"; pulso vermelho nas bordas ao perder vida.
+- Caderno: abre na metade de cima, "Fechar ✕" no topo, clicar fora fecha.
+- Menu principal e menu do jogo com o saguão de fundo.
+- Interface em português (menu, menu rápido, opções, confirmações).
+- O tom de 2014 fica só nos cenários (nos sprites travava transições).
+
+Roteiro (fim do capítulo 1, como na demo)
+- A subida (os 182 passos), a frase interrompida no topo do morro.
+- A "fala do morro": o jogador tenta escrever o que ela disse e a
+  lembrança recusa. Não tira vida.
+- A desistência, a descida com a Lucy ("E aí?" / "...Ah, Mih."), o
+  sumiço e a volta ao saguão ("Fala agora, então").
+- Sem a revelação do nome no crachá (a demo tem; aqui o nome muda
+  no momento certo, no capítulo 3).
+
+Outros
+- Exemplo do "rightish" corrigido no tutorial de imagens.
+- Escolha de idioma só com Português e English (as traduções do
+  tutorial original em outras línguas foram tiradas).
+- Saves em pasta própria (mihrage_prototipo_v2), sem misturar com os
+  do "teste import".
+
+Para abrir: no launcher do Ren'Py, clique em "Atualizar" na lista de
+projetos e escolha "mihrage_prototipo_v2".
